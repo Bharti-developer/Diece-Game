@@ -1,0 +1,1 @@
+console.log('We are in tut7.js and lets discuss about arrays');
